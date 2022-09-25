@@ -1,4 +1,4 @@
 # Project-Euler
 
 
-Solutions to some problems from the Project Euler.
+Solutions to some problems from Project Euler.
